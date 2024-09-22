@@ -11,8 +11,7 @@
 
 - 🤝 I’m looking for help with **React.js Developers**
 
-- 👨‍💻 All of my projects are available at [reactifywithujjwal.com](ujjwaltechie.com)
-
+- 👨‍💻 All of my projects are available at <a href="https://ujjwaltechie.com/">ujjwaltechie.com</a>
 - 💬 Ask me about **React.js**
 
 - 📫 How to reach me **ujjwal.tyagi90611@gmail.com**
